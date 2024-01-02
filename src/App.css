@@ -7,9 +7,17 @@
   pointer-events: none;
 }
 
+.App-logo svg {
+  fill: pink !important;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 10s linear;
+    fill: pink;
+  }
+  .App-logo svg {
+    fill: pink !important;
   }
 }
 
