@@ -1,7 +1,7 @@
 {
   "name": "lilis-shoe.github.io",
   "version": "0.1.0",
-  "homepage": "lilis-shoe.github.io",
+  "homepage": "https://lilis-shoe.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
